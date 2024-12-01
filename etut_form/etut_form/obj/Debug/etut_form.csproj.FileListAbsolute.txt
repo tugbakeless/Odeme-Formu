@@ -1,0 +1,10 @@
+C:\Users\fromt\source\repos\etut_form\etut_form\bin\Debug\etut_form.exe.config
+C:\Users\fromt\source\repos\etut_form\etut_form\bin\Debug\etut_form.exe
+C:\Users\fromt\source\repos\etut_form\etut_form\bin\Debug\etut_form.pdb
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.csproj.AssemblyReference.cache
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.Form1.resources
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.Properties.Resources.resources
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.csproj.GenerateResource.cache
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.csproj.CoreCompileInputs.cache
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.exe
+C:\Users\fromt\source\repos\etut_form\etut_form\obj\Debug\etut_form.pdb
